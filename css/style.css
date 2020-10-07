@@ -31,6 +31,10 @@ img {
   padding: 0 10%;
 }
 
+.ms_text-centro{
+  text-align: center;
+}
+
 /*HEADER*/
 /*section ms_nav*/
 /*#ms_nav{
@@ -66,3 +70,51 @@ text-align: center;
 .ms_blutext-header{
   color: #015cff;
 }
+
+/*section2*/
+#ms_sezione2{
+  background-color: #f3f5f9;
+}
+
+.ms_padding-sezione2{
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+/*section3*/
+#ms_sezione3{
+  background-color: white;
+}
+
+.ms_sezione3-textsize{
+  font-size: 20px;
+}
+
+#ms_sezione3-pcolor{
+  color: #B2B2B2;
+}
+
+/*RA RIVEDERE*/
+.ms_vertical-line {
+  border-left: 6px solid #f3f5f9;
+  height: 110px;
+  position: absolute;
+  left: 40%;
+  margin-left: -3px;
+  top: 0;
+}
+
+ul{
+  list-style-type: none;
+  padding-left: 170px;
+}
+
+.ms_sezione3-textleft{
+  text-align: left;
+}
+
+/*RISOLVERE PROBLEMA LINEA
+@media all and (max-width: ){
+
+}
+*/
