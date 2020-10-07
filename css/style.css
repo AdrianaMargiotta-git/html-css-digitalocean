@@ -30,3 +30,39 @@ img {
 .ms_centratura-page {
   padding: 0 10%;
 }
+
+/*HEADER*/
+/*section ms_nav*/
+/*#ms_nav{
+  background-color: #ffffff;
+}*/
+
+#ms_sign-up{
+  border: solid 1px #005cff;
+}
+
+.ms_logo{
+  max-height: 3.5rem;
+}
+
+/*section1*/
+#ms_sezione1{
+  /*background-color: red;*/
+  background-image: url(../img/home.jpg);
+  padding-bottom: 15px;
+}
+
+.ms_text-header{
+  color: white;
+  text-align: left;
+  padding-right: 10px;
+  font-family: 'Sailec-Bold';
+}
+
+#ms_login-header{
+text-align: center;
+}
+
+.ms_blutext-header{
+  color: #015cff;
+}
