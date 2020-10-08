@@ -8,6 +8,11 @@
 img {
   max-width: 100%;
   height: auto;
+  text-align: center;
+}
+
+.ms_sezione-pcolor{
+  color: #B2B2B2;
 }
 
 
@@ -90,10 +95,6 @@ text-align: center;
   font-size: 20px;
 }
 
-#ms_sezione3-pcolor{
-  color: #B2B2B2;
-}
-
 /*RA RIVEDERE*/
 .ms_vertical-line {
   border-left: 6px solid #f3f5f9;
@@ -113,8 +114,32 @@ ul{
   text-align: left;
 }
 
+/*section4*/
+#ms_sezione4{
+  background-color: #f3f5f9;
+}
+
+.ms_sezione4-carouselimg{
+  padding: 10%;
+  text-align: center;
+}
+
+/*section5*/
+#ms_sezione5{
+  background-color: white;
+}
+
+.ms_sezione5-text{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
 /*RISOLVERE PROBLEMA LINEA
 @media all and (max-width: ){
-
+  .ms_vertical-line{
+  border-left: 6px solid #f3f5f9;
+  height: 110px;
+  position: absolute;
+}
 }
 */
